@@ -7,7 +7,7 @@
 
     /*========== Colors ==========*/
     /* Change favorite color */
-    --hue-color: 149;
+    --hue-color: 225;
     /*Purple 250 - Green 142 - Blue 230 - Pink 340*/
 
     /* HSL color mode */
@@ -134,6 +134,10 @@ ul {
 }
 
 a {
+    text-decoration: none;
+}
+
+button {
     text-decoration: none;
 }
 
